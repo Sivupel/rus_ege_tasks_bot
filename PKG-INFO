@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ru_core_news_md
+Version: 2.3.0
+Summary: Russian multitask CNN initialized with Navec embeddings trained on Nerus dataset. Assigns context-specific token vectors, POS tags, dependency parse and named entities.
+Home-page: https://github.com/natasha/natasha-spacy
+Author: Yuri Baburov, Alexander Kukushkin
+Author-email: burchik@gmail.com, alex@alexkuk.ru
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
